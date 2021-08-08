@@ -1,0 +1,17 @@
+/.idea
+/.htaccess
+/bower_components
+/config.json
+/detail
+/docs
+/init.sh
+/plugin-reference.json
+/node_modules
+/npm-debug.log
+/README.html
+
+.sass-cache
+.DS_Store
+*.psd
+[Tt]humbs.db
+.Trashes
